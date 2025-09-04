@@ -1,6 +1,6 @@
 # Employee Working Trends - Power BI Dashboard
 
-Project Description
+Project Description:
 This project analyzes employee working habits to uncover trends in attendance, productivity, and work hours. The dashboard helps HR teams and management make data-driven decisions to improve workforce efficiency.
 
 Key Features
